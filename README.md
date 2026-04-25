@@ -13,6 +13,12 @@ The fine-tuned model is available on the Hugging Face Hub at:
 
 ---
 
+## Notebook
+
+[Click Here](https://colab.research.google.com/drive/1ditdR19cGXn7CSdHncqu7VQ7JGB-JH3Q?usp=sharing)
+
+---
+
 ## Dataset
 
 **[Facebook VoxPopuli](https://huggingface.co/datasets/facebook/voxpopuli)** — Dutch (`nl`) subset
